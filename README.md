@@ -1,10 +1,6 @@
-# finalCapstone
-
-### Final Capstone project by HyperionDev
-
 # Task Management System
 
-### Python
+### Final Capstone project by HyperionDev Skills Bootcamp
 
 A project from HyperionDev Bootcamp creating a task manager in Python.
 
