@@ -12,7 +12,7 @@ The Task Management System is a Python program designed to manage tasks and user
 
 ### INSTRUCTION / USAGE SECTION -
 
-INSTRUCT THE USER HOW TO USE THE PROJECT. INCLUDE SCREENSHOTS OF THE PRJECT IN ACTION.
+HOW TO USE THE PROJECT:
 
 The program runs in the terminal and requires user input in order for the program to output meaningful data.
 
@@ -24,16 +24,16 @@ User Authentication -
     Username: admin
     Password: password
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+
 ![](screenshots/loginsection.png)
 
->>>>>>> f669c156dbba1392801494af006119608e86ff5d
+> > > > > > > f669c156dbba1392801494af006119608e86ff5d
+
     User Registration
     Users can register by providing a unique username and password. The new user information is stored in the user.txt file.
 
 ![](screenshots/registerauser.png)
-
 
 Task Management -
 
@@ -67,7 +67,6 @@ Task Management Functions -
 
 ![](screenshots/addingatasktoauser.png)
 
-
 Reports Generation -
 
     Generating Reports
@@ -81,12 +80,10 @@ Reports Generation -
 
 ![](screenshots/generatedtaskreport.png)
 
-
     User Overview Report
     Provides statistics on the total number of users, tasks assigned to each user, and percentages of completed, incomplete, and overdue tasks for each user.
 
 ![](screenshots/generateduserreport.png)
-
 
 Displaying Statistics -
 
