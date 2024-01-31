@@ -50,6 +50,8 @@ Task Management -
     assigned_date: The date the task was assigned.
     completed: Indicates whether the task is completed ("Yes" or "No").
 
+![](screenshots/exampletask.png)
+
 Task Management Functions -
 
     Add Task (add_task):
