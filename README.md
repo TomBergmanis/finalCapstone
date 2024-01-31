@@ -70,13 +70,23 @@ Task Management Functions -
 
 Reports Generation -
 
+    Generating Reports
+    Users can choose to generate reports in the form of task_overview.txt and user_overview.txt files.
+
+![](screenshots/generatingreports.png)
+
     Task Overview Report
     Provides statistics on the total number of tasks, completed tasks, incomplete tasks, and overdue tasks.
     Calculates percentages of incomplete tasks and overdue tasks.
+
+![](screenshots/generatedtaskreport.png)
+
+
     User Overview Report
     Provides statistics on the total number of users, tasks assigned to each user, and percentages of completed, incomplete, and overdue tasks for each user.
-    Generating Reports
-    Users can choose to generate reports in the form of task_overview.txt and user_overview.txt files.
+
+![](screenshots/generateduserreport.png)
+
 
 Displaying Statistics -
 
