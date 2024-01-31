@@ -29,6 +29,10 @@ User Authentication -
     User Registration
     Users can register by providing a unique username and password. The new user information is stored in the user.txt file.
 
+
+
+![](screenshots/loginsection.png)
+
 Task Management -
 
     Tasks.txt File
