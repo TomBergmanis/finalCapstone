@@ -59,13 +59,16 @@ Task Management Functions -
     View All Tasks (view_all):
     Displays all tasks from tasks.txt with detailed information.
 
-
+![](screenshots/viewalltasks.png)
 
     View My Tasks (view_mine):
     Displays tasks assigned to the logged-in user.
     Allows the user to select a task for detailed viewing and editing.
     Editing Tasks
     Users can mark tasks as complete and, for incomplete tasks, edit the task details, including reassignment and due date modification.
+
+![](screenshots/viewmytasks.pny)
+
 
 Reports Generation -
 
