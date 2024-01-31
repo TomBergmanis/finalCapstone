@@ -24,8 +24,6 @@ User Authentication -
     Username: admin
     Password: password
 
-    ![](screenshots/registerauser.png)
-
     User Registration
     Users can register by providing a unique username and password. The new user information is stored in the user.txt file.
 
