@@ -10,6 +10,13 @@ The Task Management System is a Python program designed to manage tasks and user
 
 ### INSTALLATION -
 
+1. Navigate to the GitHub repository page.
+2. On the main page -> click the green Code button.
+3. In the menu that appears, click Download Zip/File.
+4. On your local machine -> navigate to the downloads folder
+5. unzip or extract the downloaded file.
+6. open in chosen IDE (VS Code)
+
 ### INSTRUCTION / USAGE SECTION -
 
 HOW TO USE THE PROJECT:
@@ -68,7 +75,6 @@ Task Management Functions -
     Users can mark tasks as complete and, for incomplete tasks, edit the task details, including reassignment and due date modification.
 
 ![](screenshots/viewmytasks.png)
-
 
 Reports Generation -
 
