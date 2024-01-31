@@ -67,7 +67,7 @@ Task Management Functions -
     Editing Tasks
     Users can mark tasks as complete and, for incomplete tasks, edit the task details, including reassignment and due date modification.
 
-![](screenshots/viewmytasks.pny)
+![](screenshots/viewmytasks.png)
 
 
 Reports Generation -
