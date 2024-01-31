@@ -8,13 +8,13 @@ A project from HyperionDev Bootcamp creating a task manager in Python.
 
 The Task Management System is a Python program designed to manage tasks and user authentication. It provides functionality for registering users, adding tasks, viewing tasks, generating reports, and displaying statistics. The system uses text files (user.txt and tasks.txt) to store user information and task data. Reports are generated in text files (task_overview.txt and user_overview.txt) to display information.
 
-### CREATE A TABLE OF CONTENTS...
-
 ### INSTALLATION -
 
 ### INSTRUCTION / USAGE SECTION -
 
 INSTRUCT THE USER HOW TO USE THE PROJECT. INCLUDE SCREENSHOTS OF THE PRJECT IN ACTION.
+
+The program runs in the terminal and requires user input in order for the program to output meaningful data.
 
 User Authentication -
 
@@ -23,6 +23,8 @@ User Authentication -
 
     Username: admin
     Password: password
+
+    ![](screenshots/registerauser.png)
 
     User Registration
     Users can register by providing a unique username and password. The new user information is stored in the user.txt file.
