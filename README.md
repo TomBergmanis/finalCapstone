@@ -24,11 +24,7 @@ User Authentication -
     Username: admin
     Password: password
 
-# <<<<<<< HEAD
-
 ![](screenshots/loginsection.png)
-
-> > > > > > > f669c156dbba1392801494af006119608e86ff5d
 
     User Registration
     Users can register by providing a unique username and password. The new user information is stored in the user.txt file.
@@ -57,15 +53,19 @@ Task Management Functions -
     Add Task (add_task):
     Prompts the user for task details (username, title, description, due date).
     Adds the new task to the tasks.txt file.
+
+![](screenshots/addingatasktoauser.png)
+
     View All Tasks (view_all):
     Displays all tasks from tasks.txt with detailed information.
+
+
+
     View My Tasks (view_mine):
     Displays tasks assigned to the logged-in user.
     Allows the user to select a task for detailed viewing and editing.
     Editing Tasks
     Users can mark tasks as complete and, for incomplete tasks, edit the task details, including reassignment and due date modification.
-
-![](screenshots/addingatasktoauser.png)
 
 Reports Generation -
 
